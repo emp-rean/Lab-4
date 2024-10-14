@@ -34,14 +34,14 @@ void prog2() {
     cin >> n;
     switch (n)
     {
-    case -3: cout << "Negative Three"<< endl; break;
-    case -2: cout << "Negative Two"<< endl; break;
-    case -1: cout << "Negative One"<< endl; break;
-    case 0: cout << "Zero"<< endl; break;
-    case 1: cout << "One"<< endl; break;
-    case 2: cout << "Two"<< endl; break;
-    case 3: cout << "Three"<< endl; break;
-    default: cout << "Default"<< endl; break;
+        case -3: cout << "Negative Three"<< endl; break;
+        case -2: cout << "Negative Two"<< endl; break;
+        case -1: cout << "Negative One"<< endl; break;
+        case 0: cout << "Zero"<< endl; break;
+        case 1: cout << "One"<< endl; break;
+        case 2: cout << "Two"<< endl; break;
+        case 3: cout << "Three"<< endl; break;
+        default: cout << "Default"<< endl; break;
     }
 }
 
